@@ -1,0 +1,9 @@
+
+DATA CLEANING SUMMARY
+---------------------
+Original Rows: 9994
+Cleaned Rows: 6764
+
+Missing values handled
+Duplicates removed
+Outliers removed
